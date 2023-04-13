@@ -3,7 +3,7 @@ esta ubicado en la Rama Main, realizar los pasos para pasar a rama master.
 # Prueba-Automation
 prueba técnica de automatización
 
-buenos días equipo de jikkosoft
+buenos días equipo
 
 a continuacion relaciono la prueba y los pasos para clonarlo, dentro del zip a descargar se encuentran un excel de mejoras y test case. y tambien un video explicativo.
 
